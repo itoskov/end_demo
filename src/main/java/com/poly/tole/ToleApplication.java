@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ToleApplication {
 
 	public static void main(String[] args) {
+		//some comment
 		SpringApplication.run(ToleApplication.class, args);
 	}
 
